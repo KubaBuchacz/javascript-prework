@@ -12,8 +12,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
     "mkdirp": "^3.0.1"
-  }
+  },
+  "description": ""
 }
